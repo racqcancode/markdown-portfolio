@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Grocery shopping
+		* Off-hours!
+* Sleeping
+* Absolutely nothing
